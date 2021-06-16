@@ -1,20 +1,23 @@
-### Hi, Satoshi Jek here.
+<h2 align="center">Hi, Satoshi Jek there.</h2>
 
-<!--
-**jks15satoshi/jks15satoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Greetings friend! I'm Satoshi Jek, an amateur programmer from China Mainland.
 
-Here are some ideas to get you started:
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jks15satoshi&show_icons=true&theme=nord" width=475>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3><b>About me</b></h3>
 
-Greetings friends, I'm Satoshi Jek, a programming novice from China Mainland.
+- 🔭 Currently working on some personal interest stuff.
+- 🌱 Currently learning: Python, TypeScript, Unity.
+- 📫 Email me at [jks15satoshi@gmail.com](mailto:jks15satoshi@gmail.com).
 
+<h3><b>Languages and tools</b></h3>
+
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white&color=blue)
+![Visual Studio Code](https://img.shields.io/badge/vscode-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github_actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+
+----
 Satoshi Jek, we've done here.
+
+Last updated: 16 Jun, 2021.
