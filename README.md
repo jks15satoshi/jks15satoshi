@@ -1,12 +1,12 @@
 <h2 align="center">Hi, Satoshi Jek there.</h2>
 
-Greetings friend! I'm Satoshi Jek, an amateur programmer from China Mainland.
+Greetings friends! I'm Satoshi Jek (金光楠 as legal name), an amateur programmer from China Mainland.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jks15satoshi&show_icons=true&theme=nord" width=475>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jks15satoshi&show_icons=true&theme=react" width=450>
 
 <h3><b>About me</b></h3>
 
-- 🔭 Currently working on some personal interest stuff.
+- 🔭 Currently working on some personal interest stuff. Job pursuing.
 - 🌱 Currently learning: Python, TypeScript, Unity.
 - 📫 Email me at [jks15satoshi@gmail.com](mailto:jks15satoshi@gmail.com).
 
@@ -17,7 +17,9 @@ Greetings friend! I'm Satoshi Jek, an amateur programmer from China Mainland.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github_actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jks15satoshi&layout=compact&theme=react)
+
 ----
 Satoshi Jek, we've done here.
 
-Last updated: 16 Jun, 2021.
+Last updated: 17 Jun, 2021.
