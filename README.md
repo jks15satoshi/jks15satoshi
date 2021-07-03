@@ -1,12 +1,12 @@
 <h2 align="center">Hi, Satoshi Jek there.</h2>
 
-Greetings friends! I'm Satoshi Jek (金光楠 as legal name), an amateur programmer from China Mainland.
+Greetings friends! I'm Satoshi Jek (金光楠 as legal name), an interest-driven programmer from China Mainland.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jks15satoshi&show_icons=true&theme=react" width=450>
 
 <h3><b>About me</b></h3>
 
-- 🔭 Currently working on some personal interest stuff. Job pursuing.
+- 🔭 Currently working as Python full-stack engineer intern.
 - 🌱 Currently learning: Python, TypeScript, Unity.
 - 📫 Email me at [jks15satoshi@gmail.com](mailto:jks15satoshi@gmail.com).
 
@@ -22,4 +22,4 @@ Greetings friends! I'm Satoshi Jek (金光楠 as legal name), an amateur program
 ----
 Satoshi Jek, we've done here.
 
-Last updated: 17 Jun, 2021.
+Last updated: 4 Jul, 2021 (CST).
