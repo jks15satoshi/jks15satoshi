@@ -1,15 +1,20 @@
 <h2 align="center">Hi, Satoshi Jek there.</h2>
 
-Greetings friends! I'm Satoshi Jek (金光楠 as legal name), an interest-driven programmer from China Mainland.
+Greetings friends! I'm Satoshi Jek (金光楠 as legal name*), an interest-driven programmer from China Mainland.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jks15satoshi&show_icons=true&theme=react" width=450>
 
 <h3><b>About me</b></h3>
 
-- 🔭 Currently working as Python full-stack engineer intern.
-- 🌱 Currently learning: Python, TypeScript, Vue.js.
-- ⏳ Pending learning: Flutter, Unity.
+- 🔭 Currently working on Python full-stack engineering.
+- 🌱 Currently learning: Python, Flutter.
+- ⏳ Pending learning: TypeScript, Unity.
+- 🌏 Speaking in Chinese (native), English, and Japanese (amateur).
 - 📫 Email me at [jks15satoshi@gmail.com](mailto:jks15satoshi@gmail.com).
+
+<a href="https://wakatime.com/@jks15satoshi">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=jks15satoshi&range=last_7_days&custom_title=Wakatime Stats (Last 7 Days)&layout=compact&theme=react" width=450>
+</a>
 
 <h3><b>Languages and tools</b></h3>
 
@@ -20,7 +25,10 @@ Greetings friends! I'm Satoshi Jek (金光楠 as legal name), an interest-driven
 
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jks15satoshi&layout=compact&theme=react)
 
+> \* *Though I showed my legal name up there, I'm not willing to be called with that name if we are not familiar enough. Just feel free to call me anything friendly you want except my legal name, appreciate it.*
+
 ----
+
 Satoshi Jek, we've done here.
 
-Last updated: 4 Jul, 2021 (CST).
+Last updated: 9 Oct, 2021 (CST).
