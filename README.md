@@ -2,6 +2,8 @@
 
 Greetings friends! I'm Satoshi Jek (金光楠 as legal name*), an interest-driven programmer from China Mainland.
 
+> APPEAL: Technology neutrality mattered for FOSS community.
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jks15satoshi&show_icons=true&theme=react" width=450>
 
 <h3><b>About me</b></h3>
@@ -31,4 +33,4 @@ Greetings friends! I'm Satoshi Jek (金光楠 as legal name*), an interest-drive
 
 Satoshi Jek, we've done here.
 
-Last updated: 9 Oct, 2021 (CST).
+Last updated: 6 Mar, 2022 (CST).
