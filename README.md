@@ -2,7 +2,7 @@
 
 Greetings friends! I'm Satoshi Jek (金光楠 as legal name*), an interest-driven programmer from China Mainland.
 
-> APPEAL: Technology neutrality mattered for FOSS community.
+> APPEAL: Technology neutrality mattered for FOSS communities.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jks15satoshi&show_icons=true&theme=react" width=450>
 
