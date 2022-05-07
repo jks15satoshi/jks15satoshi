@@ -9,8 +9,8 @@ Greetings friends! I'm Satoshi Jek (金光楠 as legal name*), an interest-drive
 <h3><b>About me</b></h3>
 
 - 🔭 Currently working on Python full-stack engineering.
-- 🌱 Currently learning: Python, Flutter.
-- ⏳ Pending learning: TypeScript, Unity.
+- 🌱 Currently learning: Python, TypeScript, Vue.js.
+- ⏳ Pending learning: Flutter.
 - 🌏 Speaking in Chinese (native), English, and Japanese (amateur).
 - 📫 Email me at [jks15satoshi@gmail.com](mailto:jks15satoshi@gmail.com).
 
